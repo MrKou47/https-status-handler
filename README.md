@@ -1,2 +1,2 @@
 # https-status-handler
-an functional https://httpstatuses.com handler
+A functional https://httpstatuses.com handler
